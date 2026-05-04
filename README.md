@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Notas Fofinhas
 
 Aplicativo de **notinhas na área de trabalho** para Windows, feito com [Electron](https://www.electronjs.org/). Cada nota é uma janela pequena, sem moldura, com tema pixel art, texto livre ou lista de tarefas (to-do), cores e posição salvas automaticamente.
@@ -84,3 +85,7 @@ npm run dist
 ---
 
 *Notas Fofinhas — widget de notas na área de trabalho.*
+=======
+# Notas-Fofinhas
+Meu primeiro aplicativo de computador. Notas Fofinhas!
+>>>>>>> 394122d8446c96b3ee2f9afdda966452085dfb43
